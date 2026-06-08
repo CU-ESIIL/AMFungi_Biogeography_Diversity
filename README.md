@@ -1,4 +1,4 @@
-# Working Group Template
+# Long Read Sequencing for Arbuscular Mycorrhizal Fungi
 
 This repository is a template for ESIIL Working Groups.
 
