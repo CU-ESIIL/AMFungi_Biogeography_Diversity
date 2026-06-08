@@ -1,6 +1,6 @@
 # Home
 
-## Working Group Title
+## Long Read Sequencing for Arbuscular Mycorrhizal Fungi
 
 Working Group Title
 
