@@ -1,6 +1,6 @@
 # Home
 
-## Long Read Sequencing for Arbuscular Mycorrhizal Fungi
+## Advancing Global AM Fungi Biogeography and Diversity with Long-Read Sequencing and Open Tools 
 
 Working Group Title
 
