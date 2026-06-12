@@ -1,11 +1,11 @@
-site_name: 'Long Read Sequencing for AM Fungi'
+site_name: 'Advancing Global AM Fungi Biogeography and Diversity with Long-Read Sequencing and Open Tools'
 site_description: 'Description of long read sequencing for arbuscular mycorrhizal fungi.'
 site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/Long_Read_AMFungi
+site_url: https://cu-esiil.github.io/AMFungi_Biogeography_Diversity
 
 # Repository
-repo_name: Long_Read_AMFungi
-repo_url: https://github.com/CU-ESIIL/Long_Read_AMFungi
+repo_name: AMFungi_Biogeography_Diversity
+repo_url: https://github.com/CU-ESIIL/AMFungi_Biogeography_Diversity
 # The edit URI points MkDocs Material at the docs/ source so page edit links open in GitHub edit mode.
 edit_uri: edit/main/docs/
 # Copyright
