@@ -1,7 +1,7 @@
 site_name: 'Advancing Global AM Fungi Biogeography and Diversity with Long-Read Sequencing and Open Tools'
 site_description: 'Description of long read sequencing for arbuscular mycorrhizal fungi.'
 site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/AMFungi_Biogeography_Diversity/
+site_url: https://cu-esiil.github.io/AMFungi_Biogeography_Diversity
 
 # Repository
 repo_name: AMFungi_Biogeography_Diversity
