@@ -1,10 +1,10 @@
-site_name: 'ESIIL Working Group OASIS'
+site_name: 'AMFungi Biogeography Diversity Working Group'
 site_description: 'Repository and website template for ESIIL working groups'
 site_author: Natalie Rodriguez
 site_url: https://cu-esiil.github.io/AMFungi_Biogeography_Diversity
 
 # Repository
-repo_name: Working_group_OASIS
+repo_name: AMFungi_Biogeography_Diversity
 repo_url: https://github.com/CU-ESIIL/AMFungi_Biogeography_Diversity
 # The edit URI points MkDocs Material at the docs/ source so page edit links open in GitHub edit mode.
 edit_uri: edit/main/docs/
